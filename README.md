@@ -2,7 +2,7 @@
 &lt;pattern_problem>
 
 
-PATTERN DOUBLESIDEDARROW
+PATTERN DOUBLESIDED ARROW
 Take N as input. For a value of N=7, we wish to draw the following pattern :
 
                             1 
