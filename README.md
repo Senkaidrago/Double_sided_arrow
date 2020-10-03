@@ -3,7 +3,7 @@
 
 
 PATTERN DOUBLESIDED ARROW
-Take N as input. For a value of N=7, we wish to draw the following pattern :
+This program takes N as an input. For example, for a value of N = 7, we wish the program to draw the following pattern :
 
                             1 
                         2 1   1 2 
@@ -13,7 +13,7 @@ Take N as input. For a value of N=7, we wish to draw the following pattern :
                         2 1   1 2 
                             1 
 Input Format:
-Take N as input.
+We'll take N as input.
 
 Constraints:
 N is odd number.
@@ -31,3 +31,4 @@ Sample Output
     3 2 1       1 2 3 
         2 1   1 2 
             1 
+End.
